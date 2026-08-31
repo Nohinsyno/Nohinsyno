@@ -27,7 +27,7 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 📈 GitHub Stats
-![Nohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohin&show_icons=true&theme=radical)  
+![Nohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nohinsyno&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nohin&layout=compact&theme=radical)
 
 ---
